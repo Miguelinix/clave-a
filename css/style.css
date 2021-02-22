@@ -126,6 +126,10 @@ body {
     background: #fff;
     color: rgba(18,72,120, 0.8);
 }
+.caja:nth-child(1) img{
+    width: 400px;
+    height: 300px;
+}
 .colors:nth-child(2):hover a{
     color: hsla(0, 74%, 27%, 0.8);
     font-weight: 600;
